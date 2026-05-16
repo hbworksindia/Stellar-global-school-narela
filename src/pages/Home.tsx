@@ -29,13 +29,13 @@ export default function Home() {
             className="text-white space-y-8"
           >
             <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md px-4 py-2 rounded-full border border-white/20 text-secondary font-bold text-sm tracking-wider uppercase">
-              <Star size={16} fill="currentColor" /> Trustworthy Education since day one
+              <Star size={16} fill="currentColor" /> Trustworthy Education in Narela
             </div>
-            <h1 className="text-5xl md:text-7xl font-display font-bold leading-[1.1]">
-              Building Strong <span className="text-secondary">Foundations</span> for Future Leaders
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-display font-bold leading-[1.1]">
+              Best Nursery to Class 5 School in Narela – <span className="text-secondary">Stellar Global</span> School
             </h1>
             <p className="text-xl text-white/80 max-w-xl font-sans leading-relaxed">
-              At Stellar Global School, we nurture creativity, discipline, and academic excellence to help your child reach their full potential.
+              Building strong foundations for future leaders with smart learning, expert teachers, and a safe, nurturing environment in Narela Mandi.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link 
@@ -110,7 +110,7 @@ export default function Home() {
             <div className="relative rounded-[3rem] overflow-hidden shadow-2xl z-10">
               <img 
                 src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=1000" 
-                alt="School building" 
+                alt="Stellar Global School Campus in Narela" 
                 className="w-full h-[600px] object-cover"
               />
             </div>
@@ -132,12 +132,12 @@ export default function Home() {
           
           <div className="space-y-8">
             <SectionHeading 
-              title="A Legacy of Academic Excellence & Integrity" 
+              title="Why Choose Stellar Global School Narela?" 
               subtitle="Welcome to our School" 
               centered={false} 
             />
             <p className="text-gray-600 leading-relaxed text-lg font-sans">
-              Stellar Global School is more than just an educational institution; it's a family where every child is encouraged to explore their curiosity and build a path toward success. Located in the heart of Narela, we have been providing premium primary education that combines modern techniques with traditional values.
+              Stellar Global School is the most trusted educational institution for young learners in Narela. We provide a family-like environment where students from Nursery to Class 5 explore their curiosity and build a path toward lifelong success.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {[
@@ -170,8 +170,8 @@ export default function Home() {
       <section className="py-24 bg-gray-50 overflow-hidden">
         <div className="container mx-auto px-4">
           <SectionHeading 
-            title="Premium Facilities for Your Child's Growth" 
-            subtitle="The Best Infrastructure" 
+            title="Smart Learning Environment & Modern Facilities" 
+            subtitle="The Best Infrastructure in Narela" 
           />
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
@@ -348,9 +348,9 @@ export default function Home() {
           >
             <div className="absolute top-0 left-0 w-64 h-64 bg-white/5 rounded-full -translate-x-1/2 -translate-y-1/2 blur-3xl" />
             <div className="relative z-10 max-w-3xl mx-auto space-y-8 text-white">
-              <h2 className="text-4xl md:text-6xl font-display font-bold leading-tight">Shape Your Child's Future Today</h2>
+              <h2 className="text-4xl md:text-6xl font-display font-bold leading-tight">Admissions Open 2026-27 | Join Today</h2>
               <p className="text-white/70 text-lg md:text-xl font-sans">
-                Admissions are open for session 2026-27 from Nursery to Class 5. Limited seats available for personalized attention.
+                Secure your child's place in the top-rated primary school in Narela. Admissions are currently open from Nursery to Class 5 for the session 2026-27.
               </p>
               <div className="flex flex-col sm:flex-row gap-6 justify-center">
                 <Link 
