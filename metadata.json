@@ -1,0 +1,8 @@
+{
+  "name": "Stellar Global School",
+  "description": "A premium modern school website for Stellar Global School located in Narela, Delhi. Focusing on Nursery to Class 5 admissions with a trust-building, child-focused design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
